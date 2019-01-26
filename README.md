@@ -1,5 +1,5 @@
 Creating a new branch is quick!
-
+Creating a new branch is quick & simple.
 
 # h1
 ## h2
